@@ -15,7 +15,7 @@ namespace API.Data
                     Name = "Angular Speedster Board 2000",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 20000,
+                    Price = 22000,
                     PictureUrl = "/images/products/sb-ang1.png",
                     Brand = "Angular",
                     Type = "Boards",
@@ -200,11 +200,11 @@ namespace API.Data
                     Name = "Angular Blue Boots",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-                    Price = 18000,
+                    Price = 23500,
                     PictureUrl = "/images/products/boot-ang1.png",
                     Brand = "Angular",
                     Type = "Boots",
-                    QuantityInStock = 100
+                    QuantityInStock = 99
                 },
             };
 
